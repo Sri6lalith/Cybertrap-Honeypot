@@ -1,6 +1,6 @@
 # 🛡️ Cybertrap: Advanced Honeypot with Real-Time Intrusion Detection
 
-🚀 **Cybertrap** is a high-interaction honeypot designed to detect, analyze, and visualize **network intrusion attempts** in real-time. It utilizes **Scapy for packet capture, Isolation Forest for anomaly detection, and Streamlit for real-time monitoring**.
+**Cybertrap** is a high-interaction honeypot designed to detect, analyze, and visualize **network intrusion attempts** in real-time. It utilizes **Scapy for packet capture, Isolation Forest for anomaly detection, and Streamlit for real-time monitoring**.
 
 ## **📌 Features**
 
@@ -87,6 +87,4 @@ http://your-ec2-public-ip:8501
 
 ---
 
-## **📜 License**
 
-This project is licensed under **MIT License**.
