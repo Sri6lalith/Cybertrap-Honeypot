@@ -40,7 +40,7 @@ pip3 install flask streamlit scikit-learn joblib pandas scapy
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Cybertrap-Honeypot.git
+git clone https://github.com/Sri6lalith/Cybertrap-Honeypot.git
 cd Cybertrap-Honeypot
 ```
 
@@ -96,6 +96,6 @@ nohup streamlit run dashboard.py --server.port 8501 --server.enableCORS false --
 
 ---
 
-## **🚀 Conclusion**
+## **Conclusion**
 
-Now your **Cybertrap Honeypot** is **fully deployed** and **detecting real-time attacks**! 🚀
+Now the **Cybertrap Honeypot** is **fully deployed** and **detecting real-time attacks**! 
