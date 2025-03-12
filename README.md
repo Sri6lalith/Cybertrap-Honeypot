@@ -4,8 +4,8 @@
 
 ## **📌 Features**
 
- --> **Real-time Packet Sniffing** using **Scapy**
- --> **Anomaly Detection** with **Isolation Forest** 
+ - **Real-time Packet Sniffing** using **Scapy**
+ - **Anomaly Detection** with **Isolation Forest** 
  **Live Dashboard** powered by **Streamlit**
  **AWS Deployment** on **EC2 (Ubuntu 22.04)**
  **Processes 50,000+ Packets/min** for **efficient monitoring**
