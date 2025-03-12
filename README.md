@@ -87,4 +87,9 @@ http://your-ec2-public-ip:8501
 
 ---
 
+## **🌍 Dashboard Results**
+![image](https://github.com/user-attachments/assets/b55e768a-bf38-46fa-9883-1b393f28e46f)
+
+
+
 
