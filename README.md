@@ -97,8 +97,7 @@ http://your-ec2-public-ip:8501
 ![image](https://github.com/user-attachments/assets/2176ce94-e86e-47d3-9737-c0586f33f850)
 ![image](https://github.com/user-attachments/assets/32e7594b-7d9d-4927-86d3-046f9d3fb524)
 
-
-
-
+## **📚 Author**
+- Sri Nithya Anne
 
 
