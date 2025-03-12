@@ -4,7 +4,12 @@
 
 ## **📌 Features**
 
-✅ **Real-time Packet Sniffing** using **Scapy**✅ **Anomaly Detection** with **Isolation Forest** (92% accuracy)✅ **Live Dashboard** powered by **Streamlit**✅ **AWS Deployment** on **EC2 (Ubuntu 22.04)**✅ **Processes 50,000+ Packets/Min** for **efficient monitoring**✅ **Pre-trained ML Model (`isolation_forest_model.pkl`) for Attack Detection**
+> **Real-time Packet Sniffing** using **Scapy**
+> **Anomaly Detection** with **Isolation Forest** 
+> **Live Dashboard** powered by **Streamlit**
+> **AWS Deployment** on **EC2 (Ubuntu 22.04)**
+> **Processes 50,000+ Packets/min** for **efficient monitoring**
+> **Pre-trained ML Model (`isolation_forest_model.pkl`) for Attack Detection**
 
 ---
 
