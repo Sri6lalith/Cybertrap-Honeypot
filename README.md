@@ -98,6 +98,6 @@ http://your-ec2-public-ip:8501
 ![image](https://github.com/user-attachments/assets/32e7594b-7d9d-4927-86d3-046f9d3fb524)
 
 ## **📚 Author**
-- Sri Nithya Anne
+- Sri Nithya Anne, Lalith Mohan Anne
 
 
